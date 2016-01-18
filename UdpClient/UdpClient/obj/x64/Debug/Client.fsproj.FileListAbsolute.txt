@@ -1,0 +1,6 @@
+C:\Users\Golden\Desktop\Projects\UdpClient\UdpClient\bin\Debug\UdpClient.XML
+C:\Users\Golden\Desktop\Projects\UdpClient\UdpClient\bin\Debug\UdpClient.exe
+C:\Users\Golden\Desktop\Projects\UdpClient\UdpClient\bin\Debug\UdpClient.pdb
+C:\Users\Golden\Desktop\Projects\UdpClient\UdpClient\obj\x64\Debug\Client.fsprojResolveAssemblyReference.cache
+C:\Users\Golden\Desktop\Projects\UdpClient\UdpClient\obj\x64\Debug\UdpClient.exe
+C:\Users\Golden\Desktop\Projects\UdpClient\UdpClient\obj\x64\Debug\UdpClient.pdb

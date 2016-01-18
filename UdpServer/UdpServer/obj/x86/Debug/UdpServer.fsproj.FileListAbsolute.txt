@@ -1,0 +1,14 @@
+c:\users\владос\documents\visual studio 2010\Projects\UdpServer\UdpServer\obj\x86\Debug\UdpServer.fsprojResolveAssemblyReference.cache
+c:\users\владос\documents\visual studio 2010\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.XML
+c:\users\владос\documents\visual studio 2010\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+c:\users\владос\documents\visual studio 2010\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+c:\users\владос\documents\visual studio 2010\Projects\UdpServer\UdpServer\obj\x86\Debug\UdpServer.exe
+c:\users\владос\documents\visual studio 2010\Projects\UdpServer\UdpServer\obj\x86\Debug\UdpServer.pdb
+C:\Users\Golden\Desktop\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.XML
+C:\Users\Golden\Desktop\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+C:\Users\Golden\Desktop\Projects\UdpServer\UdpServer\bin\Debug\FSharp.Core.dll
+C:\Users\Golden\Desktop\Projects\UdpServer\UdpServer\bin\Debug\FSharp.Core.xml
+C:\Users\Golden\Desktop\Projects\UdpServer\UdpServer\obj\x86\Debug\UdpServer.fsprojResolveAssemblyReference.cache
+C:\Users\Golden\Desktop\Projects\UdpServer\UdpServer\obj\x86\Debug\UdpServer.exe
+C:\Users\Golden\Desktop\Projects\UdpServer\UdpServer\obj\x86\Debug\UdpServer.pdb
+C:\Users\Golden\Desktop\Projects\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
